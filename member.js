@@ -1,1 +1,6 @@
-function skillsMember() {}
+function skillsMember() {
+    return{
+        restrict: `E`,
+        
+    }
+}
