@@ -6,7 +6,7 @@ function skillsMember() {
         controllerAs: 'vm',
         bindToController: true,
         scope:  {
-            member: 'm'
+            member: '='
         }
     }
 }
